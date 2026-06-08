@@ -51,3 +51,7 @@ This project was created as part of my learning journey in:
 
 ## License
 This project is open-source and free to use.
+
+## Authors
+**Muhammad Fauzil Adhim**
+GitHub: https://github.com/fauzildev
